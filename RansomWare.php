@@ -218,7 +218,7 @@ switch ($_POST['method']) {
 </font>                                                  
 Ransomeware
 
- -[ Contact : <font color="#19f211" style="text-shadow: 3px 3px 9px #19f211; font-size: 12px;">h4ckzu5@mail2tor.com </font>]-
+ -[ Contact : <font color="#19f211" style="text-shadow: 3px 3px 9px #19f211; font-size: 12px;">h4ckzu5@mail2tor.co </font>]-
 </pre>
 
 <form action="" method="post" style=" text-align: center;">
@@ -231,4 +231,5 @@ Ransomeware
 <?php
 }?>
 </div>
+
 </body>
